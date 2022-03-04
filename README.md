@@ -4,7 +4,7 @@
 
 ✬ pkg install python
 
-✬ https://github.com/ShellyScot/Share
+✬ git clone https://github.com/ShellyScot/Share
 
 ✬ cd Share
 
